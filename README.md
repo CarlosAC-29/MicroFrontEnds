@@ -14,7 +14,7 @@
 1 . Cloné el proyecto
 
  ```bash
-  git clone https://github.com/CarlosAC-29/portafolio.git
+  git clone https://github.com/CarlosAC-29/MicroFrontEnds.git
  ```
 
 
